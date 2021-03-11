@@ -1,0 +1,108 @@
+html, body, div, span, applet, object, iframe, table, caption, tbody, tfoot, thead, tr, th, td, 
+del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, 
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, 
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+	vertical-align: baseline;
+	font-family: inherit;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	}
+
+   
+
+    html{
+        font-family: 'Roboto Mono', monospace;
+        text-align: center;
+        margin-left: 1%;
+        margin-right: 1%
+    }
+    nav .nav-first-button {
+        background-color:  #FF764E;
+        display: inline-block;
+        text-align: center;
+        padding: 1vw 1vh;
+        color:aliceblue ;
+        margin: 1vw;
+        border-radius: 15%;
+    }
+    nav .nav-second-button {
+        background-color:  #5ED3EB;
+        display: inline-block;
+        text-align: center;
+        padding: 1vw 1vh;
+        color:aliceblue ;
+        margin: 1vw;
+        border-radius: 15%;
+    }
+    nav .nav-third-button {
+        background-color:  #FFCD69;;
+        display: inline-block;
+        text-align: center;
+        padding: 1vw 1vh;
+        color:aliceblue ;
+        margin: 1vw;
+        border-radius: 15%;
+    }
+
+    h1 {
+        font-family: 'Chelsea Market', cursive;
+        font-size: 35px;
+        display:flex;
+        right:auto
+        text-align: right;
+    }
+
+    
+
+    .box1 {
+       
+        display:inline-block;
+        border-radius: 50%;
+        height:10%;
+        width:20%;
+        /* margin: 5%; */
+        
+    }
+
+    .box2 {
+        display: inline-block;
+        
+        width: 50%;
+        margin: 2vw;
+    }
+    
+    
+    .section-one{
+        background-color: #DDB9A3;
+        color:aliceblue;
+        width: 80%;
+        margin: 5% auto;
+    }
+    
+    .section-two{
+        margin-left: 35%;
+        margin-right:25%
+    }
+    .section-two img{
+        height: 25%;
+        width:25%;
+        border-radius: 0;
+    }
+
+    span{
+        font-weight: bold;
+    
+    }
+
+    footer img {
+        width:100%;
+        height:auto;
+     }
+    footer{
+        background-color: #F9E7DC
+    }
